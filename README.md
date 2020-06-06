@@ -14,7 +14,7 @@ Video Game Sales 电子游戏销售分析<br>
 <br>
 <p>VGsales.py 文件为数据分析（可视化展示）源码
 <p>VGsales_pre.py 文件为分类预测的源码
-<p>VGsales.html 文件为实验分析报告，<b>建议使用Google浏览器打开，若打开文件后可视化图片展示有问题麻烦请一定联系我<b>
+<p>VGsales.html 文件为实验分析报告，<b><font color="red">建议使用Google浏览器打开，若打开文件后可视化图片展示有问题麻烦请一定联系我</font></b>
 <p>VGsales.ipynb 文件为Jupyter Notebook格式文件
 
 <br>

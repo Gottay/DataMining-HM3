@@ -1,6 +1,6 @@
 # DataMining-HM3
 DataMining互评作业3
-Classification &amp; Prediction Jupyter Notebook<br>
+Classification &amp; Prediction<br>
 <br>
 Video Game Sales 电子游戏销售分析<br>
 * 数据集：Video Game Sales<br>
@@ -14,10 +14,12 @@ Video Game Sales 电子游戏销售分析<br>
 <br>
 <p>VGsales.py 文件为数据分析（可视化展示）源码
 <p>VGsales_pre.py 文件为分类预测的源码
-<p>VGsales.html 文件为实验分析报告，**建议使用Google浏览器打开，若打开文件后可视化图片展示有问题麻烦请一定联系我**
+<p>VGsales.html 文件为实验分析报告，<b>建议使用Google浏览器打开，若打开文件后可视化图片展示有问题麻烦请一定联系我<b>
 <p>VGsales.ipynb 文件为Jupyter Notebook格式文件
+
 <br>
 <p>环境:<br> 
+
 * pyCharm <br>
     
 * Anaconda(主要使用Jupyter Notebook以及作为该项目Interpreter) <br>
@@ -28,8 +30,7 @@ Video Game Sales 电子游戏销售分析<br>
 <p>分析报告内容包括 
 <p>一、数据<br>
     
-* 1.1 数据集选择<br>
-vgsales.csv 数据集包括（游戏排名，游戏名称，各地区销售额等）<br>
+* 1.1 数据集选择：vgsales.csv 数据集包括（游戏排名，游戏名称，各地区销售额等）<br>
     
 * 1.2 编程语言：python<br>
 
